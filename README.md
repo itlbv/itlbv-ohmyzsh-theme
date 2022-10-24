@@ -1,7 +1,7 @@
 # itlbv-ohmyzsh-theme
 A minimal theme for Oh My Zsh.
 
-![image](https://user-images.githubusercontent.com/29758546/178203086-af62dbff-2146-414d-8520-427dabd9a409.png)
+![image](screenshot.png)
 
 ## Installation
 1. Download [itlbv.zsh-theme](https://raw.githubusercontent.com/itlbv/itlbv-ohmyzsh-theme/main/itlbv.zsh-theme)
@@ -11,5 +11,7 @@ A minimal theme for Oh My Zsh.
 ZSH_THEME="itlbv"
 ```
 
-The dashed separator function is based on af-magic theme created by Andy Fleming [http://andyfleming.com](http://andyfleming.com/)
+Works best with Space Mono Powerline font, see [https://github.com/powerline/fonts](https://github.com/powerline/fonts)
+
+The dashed separator function is based on af-magic theme created by Andy Fleming [http://andyfleming.com](http://andyfleming.com)
 
