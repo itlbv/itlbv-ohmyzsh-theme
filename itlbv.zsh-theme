@@ -16,11 +16,11 @@ directory() {
 }
 
 git_info() {
-	echo "%{$FG[131]%}$(git_prompt_info)%{$reset_color%}"
+	echo "%{$FG[131]%}$(_omz_git_prompt_info)%{$reset_color%}"
 }
 
 git_prompt_char_count() {
-  echo ${#$(git_prompt_info)[1]}
+  echo ${#$(_omz_git_prompt_info)[1]}
 }
 
 # dashed separator size
