@@ -1,7 +1,7 @@
 # itlbv.zsh-theme
 #
 # Author: Artem Fokin
-# URL: http://gihub.com/itlbv/
+# URL: http://github.com/itlbv/
 
 first_arrow() {
   echo "%B╭%b"
